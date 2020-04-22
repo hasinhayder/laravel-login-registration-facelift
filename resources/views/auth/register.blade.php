@@ -80,7 +80,7 @@
                                 <div class="col-md-12">
                                     @if (Route::has('password.request'))
                                     <a class="" href="{{ route('login') }}">
-                                        {{ __('Login') }}
+                                        {{ __('Sign In') }}
                                     </a>
                                     @endif
                                 </div>
