@@ -12,10 +12,10 @@ Also add `public\images` and `public\css\login.css` from **this repository** to 
 
 
 ## Screenshot (Login)
-![Login Screen]([screenshots/login.jpg](//hasinhayder.github.io/laravel-login-registration-facelift/screenshots/login.jpg))
+![Login Screen](//hasinhayder.github.io/laravel-login-registration-facelift/screenshots/login.jpg)
 
 ## Screenshot (Registration)
-![Registration Screen]([screenshots/registration.jpg](//hasinhayder.github.io/laravel-login-registration-facelift/screenshots/registration.jpg))
+![Registration Screen](//hasinhayder.github.io/laravel-login-registration-facelift/screenshots/registration.jpg)
 
 
 ### Image Copyright (From UnSplash)
