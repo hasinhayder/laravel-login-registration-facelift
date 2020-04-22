@@ -12,10 +12,10 @@ Also add `public\images` and `public\css\login.css` from **this repository** to 
 
 
 ## Screenshot (Login)
-![Login Screen](https://www.dropbox.com/s/l454p1e2uxxtxfg/login.jpg?dl=1)
+![Login Screen](screenshots/login.jpg)
 
 ## Screenshot (Registration)
-![Registration Screen](https://www.dropbox.com/s/fcw3s936huf58xl/registration.jpg?dl=1)
+![Registration Screen](screenshots/registration.jpg)
 
 
 ### Image Copyright (From UnSplash)
