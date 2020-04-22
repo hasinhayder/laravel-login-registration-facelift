@@ -24,4 +24,4 @@ Also add `public\images` and `public\css\login.css` from **this repository** to 
 
 
 ### License
-This work (blade files and css files) is distributed under the [MIT License](https://opensource.org/licenses/MIT). Photos are by [Adrianna Van Groningen](https://unsplash.com/@arosephotos) and of free to use. 
+This work (blade files and css files) is distributed under the [MIT License](https://opensource.org/licenses/MIT). Photos are by [Adrianna Van Groningen](https://unsplash.com/@arosephotos) and of [free to use](https://unsplash.com/license) for commercial and noncommercial purposes. 
