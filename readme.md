@@ -1,4 +1,4 @@
-# Custom Auth View and Layout
+# Laravel Default Login & Registration Facelift
 
 Here is a custom `views/layout/app.blade.php`, `views/auth/login.blade.php` and `views/auth/register.blade.php` to give the default login and registration view some facelift.
 
