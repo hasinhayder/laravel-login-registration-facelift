@@ -1,0 +1,42 @@
+#login-form{
+    padding:200px 60px 150px 60px;
+    background-color: #fff;
+    min-height:600px;
+}
+
+#registration-form{
+    padding:150px 60px 60px 60px;
+    background-color: #fff;
+    min-height:600px;
+}
+
+.login-image{
+    background-image: url('../images/adriana2.jpg') ;
+    background-size: cover;
+    background-position-y: center;
+}
+
+.registration-image{
+    background-image: url('../images/adriana.jpg') ;
+    background-size: cover;
+    background-position-y: bottom;
+}
+
+#login-form a, #login-form .form-check-label,
+#registration-form a, #registration-form .form-check-label{
+    color: #888;
+    font-size:14px;
+}
+
+.app-logo{
+    width:150px;
+    height:150px;
+}
+
+.bottom-align-text {
+    position: absolute;
+    bottom: 10px;
+    right: 15px;
+    font-size:14px;
+    color: #555;
+  }
