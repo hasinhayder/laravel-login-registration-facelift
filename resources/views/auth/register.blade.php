@@ -69,7 +69,7 @@
                                 <div class="col-md-6">
                                 </div>
                                 <div class="col-md-6">
-                                    <button type="submit" class="btn btn-danger float-right">
+                                    <button type="submit" class="btn btn-light float-right">
                                         {{ __('Sign Up') }}
                                     </button>
 
