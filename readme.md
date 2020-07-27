@@ -1,9 +1,9 @@
 # Laravel Default Login & Registration Facelift
 
-Here is a custom `views/layout/app.blade.php`, `views/auth/login.blade.php` and `views/auth/register.blade.php` to give the default login and registration view some facelift.
+Here is a custom `views/layout/app.blade.php`, `views/auth/login.blade.php` and `views/auth/register.blade.php` to give the default login and registration view some facelift. 
 
 ### How To Install
-After your scaffold your auth views - replace the default `views/layout/app.blade.php`, `views/auth/login.blade.php` and `views/auth/register.blade.php`  with these files **in this repository**.
+After scaffolding `auth` in your current laravel project - replace the default `views/layout/app.blade.php`, `views/auth/login.blade.php` and `views/auth/register.blade.php`  with these files **in this repository**.
 
 Also add `public\images` and `public\css\login.css` from **this repository** to your `public` folder. That's all!
 
